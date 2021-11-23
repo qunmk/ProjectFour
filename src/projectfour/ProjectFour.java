@@ -1,0 +1,10 @@
+package projectfour;
+
+public class ProjectFour {
+
+	public static void main(String[] args) {
+	System.out.println("This is welcome github");
+
+	}
+
+}
